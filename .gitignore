@@ -1,0 +1,12 @@
+
+# Object files
+*.o
+
+# Compiled Binary
+gnuslashlinux_installer
+#TARBALL OF BINARY
+gnuslashlinux_installer.tar
+downloader/downloader
+# Editor Temporary Files
+*~
+*.swp

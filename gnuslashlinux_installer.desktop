@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=GNUSlashLinux Installer
+Comment=Grafischer Installer für GNUSlashLinux
+Exec=pkexec /usr/local/bin/gnuslashlinux_installer
+Icon=gnuslashlinux_installer
+Terminal=false
+Categories=System;Settings;
+StartupNotify=true
