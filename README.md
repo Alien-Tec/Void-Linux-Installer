@@ -10,23 +10,23 @@ Das Tool bindet sich nahtlos in die Live-Umgebung ein und sorgt für eine sauber
 
 # Screenshots
 
-!(assets/Screen_1.png)
+![Screen_1](assets/Screen_1.png)
 
-!(assets/Screen_2.png)
+![Screen_2](assets/Screen_2.png)
 
-!(assets/Screen_3.png)
+![Screen_3](assets/Screen_3.png)
 
-!(assets/Screen_4.png)
+![Screen_4](assets/Screen_4.png)
 
-!(assets/Screen_5.png)
+![Screen_5](assets/Screen_5.png)
 
-!(assets/Screen_6.png)
+![Screen_6](assets/Screen_6.png)
 
-!(assets/Screen_7.png)
+![Screen_7](assets/Screen_7.png)
 
-!(assets/Screen_8.png)
+![Screen_8](assets/Screen_8.png)
 
-!(assets/Screen_9.png)
+![Screen_9](assets/Screen_9.png)
 
 ---
 
