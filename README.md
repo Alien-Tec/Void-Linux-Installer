@@ -8,6 +8,28 @@ Das Tool bindet sich nahtlos in die Live-Umgebung ein und sorgt für eine sauber
 
 ---
 
+# Screenshots
+
+(assets/Screen_1.png)
+
+(assets/Screen_2.png)
+
+(assets/Screen_3.png)
+
+(assets/Screen_4.png)
+
+(assets/Screen_5.png)
+
+(assets/Screen_6.png)
+
+(assets/Screen_7.png)
+
+(assets/Screen_8.png)
+
+(assets/Screen_9.png)
+
+---
+
 ## 📂 Projektstruktur
 
 * **`src/` & `include/`:** Der Kern-Quellcode und die Header-Dateien des Installers.
